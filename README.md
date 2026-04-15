@@ -91,9 +91,8 @@ const omar = {
 
 ### 💬 Let's Connect & Build Something Amazing!
 
-<a href="https://www.linkedin.com/in/%c3%b6m%c9%99r-babaverdiyev-854b27149/" target="_blank">
-[![LinkedIn](https://img.shields.io/badge/Say%20Hi%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
-</a>
+[![LinkedIn](https://img.shields.io/badge/Say%20Hi%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%c3%b6m%c9%99r-babaverdiyev-854b27149/)
+
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=omarbabaverdiyev&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
